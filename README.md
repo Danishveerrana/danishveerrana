@@ -1,6 +1,6 @@
 ## Hey, Welcome to My GitHub! 🚀
 
-Hi there! I’m Danish Veer Rana, a tech enthusiast 💻 and photographer 📸 from the beautiful hills of Patnitop, J&K, India. I’m currently in 11th grade, diving deep into PCM with Computer Science and building awesome projects! 🎉
+Hi there! I’m Danish Veer Rana, a tech enthusiast 💻 and photographer 📸 from the beautiful hills of J&K, India. I’m currently in 11th grade, diving deep into PCM with Computer Science and building awesome projects! 🎉
 
 I’m all about blending technology and creativity to build solutions that solve real problems and make life easier. Whether it’s creating innovative apps, experimenting with machine learning 🤖, or developing voice-controlled systems, I’m always excited to explore new ways to innovate.
 
