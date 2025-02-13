@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a tech enthusiast, programmer, and student currently e
 - Contributing to **open-source projects** and collaborating with the global developer community.
 - Creating **innovative automation solutions** using **IoT**.
 
-## 🌎 Let's Connect
+## 🌎 Let's Connect.
 
 [![Instagram](https://img.shields.io/badge/Instagram-danishveerrana-blue?style=social&logo=instagram)](https://www.instagram.com/danishveerrana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-danishveerrana-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/danishveerrana)
 
