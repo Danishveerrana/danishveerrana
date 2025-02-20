@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a tech enthusiast, programmer, and student currently e
 
 - **Languages**: Python, JavaScript, HTML/CSS
 - **Tools & Frameworks**: Figma, Flask, Django, TensorFlow
-- **Technologies**: IoT, Machine Learning, AI, Web Development
+- **Technologies**: IoT, Machine Learning, AI, Web Development.
 
 ## 🌱 Learning Goals
 
