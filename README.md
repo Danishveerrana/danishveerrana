@@ -1,6 +1,6 @@
 # Hi, I'm Danish 👋
 
-Welcome to my GitHub! I'm a tech enthusiast, programmer, and student currently exploring the world of **Python programming**, **IoT**, and **machine learning**. I'm passionate about creating impactful solutions through technology and continuously learning new skills to grow as a developer.
+Welcome to my GitHub! I'm a tech enthusiast, programmer, and student currently exploring the world of **Python programming**, **IoT**, and **machine learning**. I'm passionate about creating impactful solutions through technology and continuously learning new skills to grow as a developer
 
 ## About Me
 
