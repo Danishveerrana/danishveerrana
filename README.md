@@ -62,5 +62,7 @@
 ### ✨ Motto
 
 <p align="center">
-  <em><b>"Making code beautiful, powerful and meaningful."</b></em> – <b>Dannie</b>
+  <em><b>"When <strong>nothing</strong> is nothing,
+    Means you happy,
+    Chase the <strong>nothing</strong>."</b></em> – <b>Dannie</b>
 </p>
