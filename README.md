@@ -8,7 +8,7 @@
 
 ### 🌟 About Me
 
-- **Age:** 17+ y/o | Class 12 | PCM + CS @ Kendriya Vidyalaya
+- **Age:** 18+ y/o | Class 12 | PCM + CS @ Kendriya Vidyalaya
 - **Fields I Love:** Python, AI, UI/UX, Open Source
 - **Currently Building:** `VYOM` – Gesture + Voice Navigation System
 - **Hobbies:** Photography, Research, Cinematic Editing.
